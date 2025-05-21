@@ -19,4 +19,5 @@ Provenance des données :
 Les données ont été récupérées sur le site de la FAO (Food and Agriculture Organization).
 
 Livrables :
-Un notebook contenant la préparation, le nettoyage et l’analyse exploratoire des données. Un notebook contenant le/les clusterings effectués, et les différentes visualisations associées.
+Un notebook contenant la préparation, le nettoyage et l’analyse exploratoire des données. Un notebook contenant les clusterings effectués, et les différentes visualisations associées. 
+Livrable une proposition de pays vers lesquels l'exportation serait rentable et possible (ponderation du risque pays pib habitant...)
